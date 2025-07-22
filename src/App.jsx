@@ -1,10 +1,10 @@
-import weatherComponent from "./weatherComponent"
+import WeatherComponent from "./weatherComponent";
 
 function App() {
 
   return (
     <>
-
+      <WeatherComponent/>
     </>
   )
 }
